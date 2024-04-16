@@ -1,0 +1,6 @@
+pandas
+streamlit
+nltk
+pillow
+sklearn
+plotly
